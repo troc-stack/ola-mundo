@@ -1,0 +1,2 @@
+print('Olá, mundo!!!\n')
+print('Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, asperiores a! Excepturi, voluptate neque incidunt vero laboriosam earum illo iste obcaecati, itaque quam pariatur? Ducimus ut amet aut veritatis incidunt.')
